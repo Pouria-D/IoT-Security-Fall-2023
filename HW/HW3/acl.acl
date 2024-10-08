@@ -1,0 +1,13 @@
+# acl.acl
+
+# User "Pouria" permissions
+user Pouria
+topic readwrite SIOT/401201381/LED
+
+# User "Amin" permissions
+user Amin
+topic readwrite SIOT/401200224/LED
+
+# User "espClient" permissions. it can only read over all students commands but can not write on any off them
+user espClient
+topic read SIOT/+/LED

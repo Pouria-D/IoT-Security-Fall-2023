@@ -1,0 +1,4 @@
+mosquitto.conf direcotyr:
+
+/usr/share/doc/mosquitto/examples/mosquitto.conf
+/etc/mosquitto/mosquitto.conf

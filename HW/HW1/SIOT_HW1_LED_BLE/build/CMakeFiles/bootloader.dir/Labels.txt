@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/CMakeFiles/bootloader
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/CMakeFiles/bootloader.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/CMakeFiles/bootloader-complete.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Ms 3/IoT/HW/LED_BLE_SIOT_HW/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

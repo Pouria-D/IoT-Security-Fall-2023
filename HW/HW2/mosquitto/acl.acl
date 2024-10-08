@@ -1,0 +1,16 @@
+# acl.acl
+
+# Public topic that all users can subscribe to
+pattern readwrite company/public/#
+
+# User "pouria" permissions
+user pouria
+topic readwrite company/pouria/#
+
+# User "ahmad" permissions
+user ahmad
+topic readwrite company/ahmad/#
+
+# User "amin" permissions
+user amin
+topic readwrite company/amin/#
