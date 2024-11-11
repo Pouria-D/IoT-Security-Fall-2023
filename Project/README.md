@@ -86,3 +86,35 @@ Evaluates robustness against:
 git clone https://github.com/your-repo/IoT-IDS.git
 cd IoT-IDS
 pip install -r requirements.txt
+
+
+---
+
+## Results and Findings
+
+- The proposed model achieves high accuracy in anomaly detection and multi-class attack classification.
+- Incorporating temporal and structural features significantly improves performance over traditional IDS models.
+- Adversarial attacks expose vulnerabilities, indicating the need for further model hardening.
+
+---
+
+## Future Work
+
+- **Improved Training Efficiency:** Optimizing training times for large-scale networks.
+- **Defense Mechanisms:** Developing adversarial training to enhance resilience.
+- **Real-World Deployment:** Simulating scenarios with heterogeneous IoT devices and unbalanced processing capabilities.
+
+---
+
+## References
+
+- A. L. Buczak and E. Guven, “A survey of data mining and machine learning methods for cyber security intrusion detection,” IEEE Communications Surveys & Tutorials, 2016.
+- Guanghan Duan et al., "Dynamic Line Graph Neural Network for Intrusion Detection With Semi-supervised Learning," IEEE Transactions, 2023.
+- F. Manessi et al., “Dynamic graph convolutional networks,” Pattern Recognition, 2020.
+
+For a complete list of references, see the report.
+
+---
+
+For further inquiries, please contact [Pouria Dadkhah](mailto:Pouria_dadkhah@ee.sharif.edu).
+
