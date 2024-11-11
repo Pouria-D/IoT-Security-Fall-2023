@@ -13,11 +13,9 @@ This project analyzes intrusion detection systems (IDS) in IoT networks using ad
 3. [Data Sources](#data-sources)
 4. [Methodology](#methodology)
 5. [Evaluation Metrics](#evaluation-metrics)
-6. [Setup and Installation](#setup-and-installation)
-7. [Usage](#usage)
-8. [Results and Findings](#results-and-findings)
-9. [Future Work](#future-work)
-10. [References](#references)
+6. [Results and Findings](#results-and-findings)
+7. [Future Work](#future-work)
+8. [References](#references)
 
 ---
 
@@ -80,13 +78,6 @@ Evaluates robustness against:
 - Libraries: PyTorch, NetworkX, NumPy, Matplotlib
 - GPU (optional for faster training)
 
-### Installation
-
-```bash
-git clone https://github.com/your-repo/IoT-IDS.git
-cd IoT-IDS
-pip install -r requirements.txt
-```
 ---
 
 ## Results and Findings
